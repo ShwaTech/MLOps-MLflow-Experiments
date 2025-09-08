@@ -7,8 +7,11 @@ from sklearn.metrics import accuracy_score, confusion_matrix, classification_rep
 import matplotlib.pyplot as plt
 import seaborn as sns
 
+import dagshub
+dagshub.init(repo_owner='ShwaTech', repo_name='MLOps-MLflow-Experiments', mlflow=True)
+
 ## So IMPORTANT !!
-mlflow.set_tracking_uri("http://localhost:5000")
+mlflow.set_tracking_uri("https://dagshub.com/ShwaTech/MLOps-MLflow-Experiments.mlflow")
 
 ## Load Wine Dataset
 wine = load_wine()
@@ -77,6 +80,3 @@ with mlflow.start_run():
     ## Print the Accuracy
     print("Accuracy:", accuracy)
     
-
-## Run in Bash
-# $ mlflow ui
