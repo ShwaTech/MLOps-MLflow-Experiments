@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/521575558706969670/83a67f6af9514d7ca08047429f01689b/artifacts
+end_time: 1757346996600
+entry_point_name: ''
+experiment_id: '521575558706969670'
+lifecycle_stage: active
+run_id: 83a67f6af9514d7ca08047429f01689b
+run_name: secretive-midge-864
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757346996291
+status: 3
+tags: []
+user_id: mo-shwa

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/521575558706969670/422857f3d5e442a3875ada2b9911c943/artifacts
+end_time: 1757346823015
+entry_point_name: ''
+experiment_id: '521575558706969670'
+lifecycle_stage: active
+run_id: 422857f3d5e442a3875ada2b9911c943
+run_name: smiling-sow-240
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757346822999
+status: 3
+tags: []
+user_id: mo-shwa

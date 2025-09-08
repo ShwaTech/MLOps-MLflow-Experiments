@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/521575558706969670/ca43ee2d0ec14b76a7291c5351d524f0/artifacts
+end_time: 1757346912061
+entry_point_name: ''
+experiment_id: '521575558706969670'
+lifecycle_stage: active
+run_id: ca43ee2d0ec14b76a7291c5351d524f0
+run_name: bald-stoat-598
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757346912047
+status: 3
+tags: []
+user_id: mo-shwa

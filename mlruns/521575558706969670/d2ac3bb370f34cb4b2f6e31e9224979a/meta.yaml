@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/521575558706969670/d2ac3bb370f34cb4b2f6e31e9224979a/artifacts
+end_time: 1757346998874
+entry_point_name: ''
+experiment_id: '521575558706969670'
+lifecycle_stage: active
+run_id: d2ac3bb370f34cb4b2f6e31e9224979a
+run_name: adorable-shark-593
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757346998582
+status: 3
+tags: []
+user_id: mo-shwa

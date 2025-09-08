@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/521575558706969670/b04039a0e3524f4abf60991fd7da8b97/artifacts
+end_time: 1757346995752
+entry_point_name: ''
+experiment_id: '521575558706969670'
+lifecycle_stage: active
+run_id: b04039a0e3524f4abf60991fd7da8b97
+run_name: sneaky-foal-401
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757346995389
+status: 3
+tags: []
+user_id: mo-shwa

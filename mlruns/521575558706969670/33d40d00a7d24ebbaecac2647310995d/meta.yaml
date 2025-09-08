@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/521575558706969670/33d40d00a7d24ebbaecac2647310995d/artifacts
+end_time: 1757346822996
+entry_point_name: ''
+experiment_id: '521575558706969670'
+lifecycle_stage: active
+run_id: 33d40d00a7d24ebbaecac2647310995d
+run_name: youthful-penguin-53
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757346822981
+status: 3
+tags: []
+user_id: mo-shwa

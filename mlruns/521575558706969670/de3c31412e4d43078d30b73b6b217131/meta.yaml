@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/521575558706969670/de3c31412e4d43078d30b73b6b217131/artifacts
+end_time: 1757346823142
+entry_point_name: ''
+experiment_id: '521575558706969670'
+lifecycle_stage: active
+run_id: de3c31412e4d43078d30b73b6b217131
+run_name: chill-ox-852
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757346823128
+status: 3
+tags: []
+user_id: mo-shwa

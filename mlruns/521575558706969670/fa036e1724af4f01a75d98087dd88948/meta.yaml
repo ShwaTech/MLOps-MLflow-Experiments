@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/521575558706969670/fa036e1724af4f01a75d98087dd88948/artifacts
+end_time: 1757346994885
+entry_point_name: ''
+experiment_id: '521575558706969670'
+lifecycle_stage: active
+run_id: fa036e1724af4f01a75d98087dd88948
+run_name: peaceful-snail-477
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757346994568
+status: 3
+tags: []
+user_id: mo-shwa

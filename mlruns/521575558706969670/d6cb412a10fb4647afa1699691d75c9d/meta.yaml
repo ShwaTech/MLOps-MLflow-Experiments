@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/521575558706969670/d6cb412a10fb4647afa1699691d75c9d/artifacts
+end_time: 1757346998016
+entry_point_name: ''
+experiment_id: '521575558706969670'
+lifecycle_stage: active
+run_id: d6cb412a10fb4647afa1699691d75c9d
+run_name: puzzled-cow-233
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757346997703
+status: 3
+tags: []
+user_id: mo-shwa

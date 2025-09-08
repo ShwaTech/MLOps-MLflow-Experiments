@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/521575558706969670/3e92ca9a5aa640f4ac6ce5c91a0b39c5/artifacts
+end_time: 1757346911932
+entry_point_name: ''
+experiment_id: '521575558706969670'
+lifecycle_stage: active
+run_id: 3e92ca9a5aa640f4ac6ce5c91a0b39c5
+run_name: intrigued-jay-204
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757346911917
+status: 3
+tags: []
+user_id: mo-shwa

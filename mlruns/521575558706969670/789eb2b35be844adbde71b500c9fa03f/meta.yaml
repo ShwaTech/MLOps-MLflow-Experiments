@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/521575558706969670/789eb2b35be844adbde71b500c9fa03f/artifacts
+end_time: 1757346911989
+entry_point_name: ''
+experiment_id: '521575558706969670'
+lifecycle_stage: active
+run_id: 789eb2b35be844adbde71b500c9fa03f
+run_name: smiling-whale-161
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757346911972
+status: 3
+tags: []
+user_id: mo-shwa

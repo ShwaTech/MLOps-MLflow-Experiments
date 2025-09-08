@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/521575558706969670/fb95e3bf97894289be78aa918f54c231/artifacts
+end_time: 1757346911950
+entry_point_name: ''
+experiment_id: '521575558706969670'
+lifecycle_stage: active
+run_id: fb95e3bf97894289be78aa918f54c231
+run_name: skillful-dove-85
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757346911934
+status: 3
+tags: []
+user_id: mo-shwa

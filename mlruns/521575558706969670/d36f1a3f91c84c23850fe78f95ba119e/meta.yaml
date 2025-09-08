@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/521575558706969670/d36f1a3f91c84c23850fe78f95ba119e/artifacts
+end_time: 1757346823051
+entry_point_name: ''
+experiment_id: '521575558706969670'
+lifecycle_stage: active
+run_id: d36f1a3f91c84c23850fe78f95ba119e
+run_name: invincible-hound-880
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757346823036
+status: 3
+tags: []
+user_id: mo-shwa

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/521575558706969670/0b6828a9ec814ca6aa7c16168abe32eb/artifacts
+end_time: 1757346912044
+entry_point_name: ''
+experiment_id: '521575558706969670'
+lifecycle_stage: active
+run_id: 0b6828a9ec814ca6aa7c16168abe32eb
+run_name: debonair-fish-629
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757346912029
+status: 3
+tags: []
+user_id: mo-shwa

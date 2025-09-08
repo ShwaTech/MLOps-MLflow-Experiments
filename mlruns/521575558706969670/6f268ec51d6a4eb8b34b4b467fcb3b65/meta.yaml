@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/521575558706969670/6f268ec51d6a4eb8b34b4b467fcb3b65/artifacts
+end_time: 1757346823106
+entry_point_name: ''
+experiment_id: '521575558706969670'
+lifecycle_stage: active
+run_id: 6f268ec51d6a4eb8b34b4b467fcb3b65
+run_name: clean-pug-474
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757346823090
+status: 3
+tags: []
+user_id: mo-shwa

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/521575558706969670/bce800dfe75245d3a3f33ce7ed8a3792/artifacts
+end_time: 1757346911895
+entry_point_name: ''
+experiment_id: '521575558706969670'
+lifecycle_stage: active
+run_id: bce800dfe75245d3a3f33ce7ed8a3792
+run_name: nosy-moth-418
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757346911767
+status: 3
+tags: []
+user_id: mo-shwa

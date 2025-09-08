@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/521575558706969670/74e35b0a915945e399dd07e637723be9/artifacts
+end_time: 1757346823168
+entry_point_name: ''
+experiment_id: '521575558706969670'
+lifecycle_stage: active
+run_id: 74e35b0a915945e399dd07e637723be9
+run_name: salty-shrike-507
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757346823145
+status: 3
+tags: []
+user_id: mo-shwa

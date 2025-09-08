@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/521575558706969670/7568fa7d4bec4248850f503e95cd440b/artifacts
+end_time: 1757346912008
+entry_point_name: ''
+experiment_id: '521575558706969670'
+lifecycle_stage: active
+run_id: 7568fa7d4bec4248850f503e95cd440b
+run_name: persistent-yak-35
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757346911991
+status: 3
+tags: []
+user_id: mo-shwa

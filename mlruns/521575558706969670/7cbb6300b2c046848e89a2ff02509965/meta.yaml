@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/521575558706969670/7cbb6300b2c046848e89a2ff02509965/artifacts
+end_time: 1757346823033
+entry_point_name: ''
+experiment_id: '521575558706969670'
+lifecycle_stage: active
+run_id: 7cbb6300b2c046848e89a2ff02509965
+run_name: smiling-croc-123
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757346823017
+status: 3
+tags: []
+user_id: mo-shwa

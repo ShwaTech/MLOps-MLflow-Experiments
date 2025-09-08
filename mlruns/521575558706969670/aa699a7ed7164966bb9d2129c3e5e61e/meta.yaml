@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/521575558706969670/aa699a7ed7164966bb9d2129c3e5e61e/artifacts
+end_time: 1757346823126
+entry_point_name: ''
+experiment_id: '521575558706969670'
+lifecycle_stage: active
+run_id: aa699a7ed7164966bb9d2129c3e5e61e
+run_name: fun-skunk-757
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757346823109
+status: 3
+tags: []
+user_id: mo-shwa

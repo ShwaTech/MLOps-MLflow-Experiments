@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/521575558706969670/876f720434904ef39e712f8b394cbf5c/artifacts
+end_time: 1757346912105
+entry_point_name: ''
+experiment_id: '521575558706969670'
+lifecycle_stage: active
+run_id: 876f720434904ef39e712f8b394cbf5c
+run_name: languid-dolphin-179
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757346912081
+status: 3
+tags: []
+user_id: mo-shwa

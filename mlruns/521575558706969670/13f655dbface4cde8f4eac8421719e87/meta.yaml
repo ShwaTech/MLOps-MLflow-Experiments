@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/521575558706969670/13f655dbface4cde8f4eac8421719e87/artifacts
+end_time: 1757346999303
+entry_point_name: ''
+experiment_id: '521575558706969670'
+lifecycle_stage: active
+run_id: 13f655dbface4cde8f4eac8421719e87
+run_name: monumental-bee-371
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757346999018
+status: 3
+tags: []
+user_id: mo-shwa
