@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/521575558706969670/8b20184d591a46659716c04e36f0147a/artifacts
+end_time: 1757345726574
+entry_point_name: ''
+experiment_id: '521575558706969670'
+lifecycle_stage: active
+run_id: 8b20184d591a46659716c04e36f0147a
+run_name: charming-mouse-549
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757345715627
+status: 3
+tags: []
+user_id: mo-shwa
