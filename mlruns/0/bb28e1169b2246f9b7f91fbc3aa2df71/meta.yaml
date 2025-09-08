@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/bb28e1169b2246f9b7f91fbc3aa2df71/artifacts
+end_time: 1757330162859
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bb28e1169b2246f9b7f91fbc3aa2df71
+run_name: inquisitive-fowl-833
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757330162675
+status: 3
+tags: []
+user_id: mo-shwa

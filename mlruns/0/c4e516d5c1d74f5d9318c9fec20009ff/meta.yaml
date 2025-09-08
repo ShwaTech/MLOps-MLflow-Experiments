@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/c4e516d5c1d74f5d9318c9fec20009ff/artifacts
+deleted_time: 1757331471921
+end_time: 1757330882837
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: c4e516d5c1d74f5d9318c9fec20009ff
+run_name: invincible-bear-709
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757330882475
+status: 4
+tags: []
+user_id: mo-shwa

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/3803ff54cb624dd7833d92e478bde56d/artifacts
+end_time: 1757331521114
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3803ff54cb624dd7833d92e478bde56d
+run_name: crawling-wolf-358
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757331519907
+status: 3
+tags: []
+user_id: mo-shwa

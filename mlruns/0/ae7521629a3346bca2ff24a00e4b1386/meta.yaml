@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/ae7521629a3346bca2ff24a00e4b1386/artifacts
+end_time: 1757329712055
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ae7521629a3346bca2ff24a00e4b1386
+run_name: efficient-dog-962
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757329711876
+status: 3
+tags: []
+user_id: mo-shwa

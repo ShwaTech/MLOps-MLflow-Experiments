@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/ab54f43a1b7f41008f6f24b3b0b1a711/artifacts
+end_time: 1757330138823
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ab54f43a1b7f41008f6f24b3b0b1a711
+run_name: funny-shoat-300
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757330138451
+status: 3
+tags: []
+user_id: mo-shwa

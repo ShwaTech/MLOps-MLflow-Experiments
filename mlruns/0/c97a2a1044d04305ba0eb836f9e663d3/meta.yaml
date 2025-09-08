@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/c97a2a1044d04305ba0eb836f9e663d3/artifacts
+end_time: 1757294439809
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c97a2a1044d04305ba0eb836f9e663d3
+run_name: big-croc-999
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757294439768
+status: 3
+tags: []
+user_id: mo-shwa
